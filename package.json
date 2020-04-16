@@ -19,6 +19,7 @@
   "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "fetch": "^1.1.0",
     "mongoose": "^5.5.15"
   }
 }
